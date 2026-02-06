@@ -1,0 +1,10 @@
+#include "martini_v3.0.0.itp"
+#include "PE160.itp"
+
+[ system ]
+; Name
+Melt of PE 160 with 18 chains
+
+[ molecules ]
+; Compound        Number
+PE               18

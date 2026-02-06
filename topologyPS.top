@@ -1,0 +1,10 @@
+#include "martini_v3.0.0.itp"
+#include "PS50.itp"
+
+[ system ]
+; Name
+Melt of PS 50 with 16 chains
+
+[ molecules ]
+; Compound        Number
+PS               16
